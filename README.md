@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @LucasTemponi
-- 👀 I’m interested in Data Analysis, microcontroller programming and Home Automation
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at lucastmpn@gmail.com or https://www.linkedin.com/in/lucastemponi/
 
 <!---

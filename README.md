@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasTemponi
+![Header](./github-header-image.png)
 
 <h3 align="left">About me:</h3>
 I am an electrical engineer who loves technology and programming. I have experience in creating solutions for real problems using code and currently work as a frontend developer. In this profile, you can find some of my personal and professional projects that involve different languages and tools. I hope you like my work and feel free to contact me.
